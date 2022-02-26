@@ -1,9 +1,13 @@
-shrek 2001
-the matrix 2000
-the lion king 1995
-american psycho 1999
-star wars episode 3: revenge of the sith 2003
-the dark knight 2005
-Shrek 2 2002
-Shrek 3 2003
-Puss in boots 2004
+shrek 2001 Dreamworks
+the matrix 2000 duno
+the lion king 1995 Disney
+american psycho 1999 duno
+star wars episode 3: revenge of the sith 2003 Disney
+the dark knight 2005 Marvle
+Shrek 2 2002 Dreamworks
+Shrek 3 2003 Dreamworks
+Puss in boots 2004 Dreamworks
+shrek Dreamworks
+
+
+
