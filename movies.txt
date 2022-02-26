@@ -1,13 +1,13 @@
-shrek 2001 Dreamworks
-the matrix 2000 duno
-the lion king 1995 Disney
-american psycho 1999 duno
-star wars episode 3: revenge of the sith 2003 Disney
-the dark knight 2005 Marvle
-Shrek 2 2002 Dreamworks
-Shrek 3 2003 Dreamworks
-Puss in boots 2004 Dreamworks
-shrek Dreamworks
+shrek 2001 Dreamworks vicky jenson
+the matrix 2000 duno lana wachowski
+the lion king 1995 Disney rob minkoff
+american psycho 1999 duno mary harron
+star wars episode 3: revenge of the sith 2003 Disney christopher nolan
+the dark knight 2005 Marvle christopher nolan
+Shrek 2 2002 Dreamworks conrad vernon
+Shrek 3 2003 Dreamworks chris miller
+Puss in boots 2004 Dreamworks chris miller
+
 
 
 
