@@ -1,13 +1,9 @@
-shrek
-the matrix
-the lion king
-<<<<<<< HEAD
-american psycho
-star wars episode 3: revenge of the sith
-the dark knight
-=======
-Shrek 2
-Shrek 3
-Puss in boots
-
->>>>>>> 3bcffe85441068f798d5a19e7ffafe07d8dc8634
+shrek 2001
+the matrix 2000
+the lion king 1995
+american psycho 1999
+star wars episode 3: revenge of the sith 2003
+the dark knight 2005
+Shrek 2 2002
+Shrek 3 2003
+Puss in boots 2004
